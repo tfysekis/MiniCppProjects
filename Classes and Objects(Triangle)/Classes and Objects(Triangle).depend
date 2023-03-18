@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1678987614 source:/home/tommy/MiniCppProjects/Classes and Objects/main.cpp
+	<cmath>
+	<iostream>
+	<iomanip>
+	"Triangle.h"
+
+1679101127 /home/tommy/MiniCppProjects/Classes and Objects/include/Triangle.h
+
+1679127970 source:/home/tommy/MiniCppProjects/Classes and Objects/src/Triangle.cpp
+	"Triangle.h"
+	<cmath>
+	<iostream>
+

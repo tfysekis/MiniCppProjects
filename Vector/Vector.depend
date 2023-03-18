@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1679066987 source:/home/tommy/C++/Vector/src/Vector.cpp
+	"Vector.h"
+	<cmath>
+	<iostream>
+
+1679066804 /home/tommy/C++/Vector/include/Vector.h
+
+1679065310 source:/home/tommy/C++/Vector/main.cpp
+	<iostream>
+	<iomanip>
+	"Vector.h"
+
+1679065310 source:/home/tommy/MiniCppProjects/Vector/main.cpp
+	<iostream>
+	<iomanip>
+	"Vector.h"
+
+1679066804 /home/tommy/MiniCppProjects/Vector/include/Vector.h
+
+1679066987 source:/home/tommy/MiniCppProjects/Vector/src/Vector.cpp
+	"Vector.h"
+	<cmath>
+	<iostream>
+
