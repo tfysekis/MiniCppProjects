@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1679498971 source:/home/tommy/MiniCppProjects/Scooter/Scooter.cpp
+	"Scooter.h"
+	<cmath>
+
+1679498961 /home/tommy/MiniCppProjects/Scooter/Scooter.h
+
+1679499039 source:/home/tommy/MiniCppProjects/Scooter/main.cpp
+	"Scooter.h"
+	"ElectricalScooter.h"
+	<iostream>
+	<iomanip>
+
+1679498718 source:/home/tommy/MiniCppProjects/Scooter/ElectricalScooter.cpp
+	"ElectricalScooter.h"
+
+1679480805 /home/tommy/MiniCppProjects/Scooter/ElectricalScooter.h
+	"Scooter.h"
+

@@ -6,6 +6,7 @@ This repository contains a collection of small C++ projects that I've worked on.
 
 - `Classes and Objects(Trianlge)`: A program that demonstrates the total basics.
 - `Vector`: A program that calculates the magnitude,angle,multiply,clone(..) of a vector.
+- `Scooter` : A program that demonstrates the inheritance in c++
 
 ## Getting Started
 
