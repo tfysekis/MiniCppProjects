@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1680100392 source:/home/tommy/MiniCppProjects/BankAccount/Account.cpp
+	"Account.h"
+	<cstring>
+
+1680099837 /home/tommy/MiniCppProjects/BankAccount/Account.h
+	<cstring>
+
+1680099837 source:/home/tommy/MiniCppProjects/BankAccount/CreditCard.cpp
+	"CreditCard.h"
+
+1680099837 /home/tommy/MiniCppProjects/BankAccount/CreditCard.h
+	"Account.h"
+
+1680099837 source:/home/tommy/MiniCppProjects/BankAccount/main.cpp
+	<iostream>
+	"CreditCard.h"
+	"Savings.h"
+
+1680100010 /home/tommy/MiniCppProjects/BankAccount/Savings.h
+	"Account.h"
+
+1680100171 source:/home/tommy/MiniCppProjects/BankAccount/Savings.cpp
+	"Savings.h"
+
