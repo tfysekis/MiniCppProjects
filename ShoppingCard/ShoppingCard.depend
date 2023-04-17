@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1681760745 source:/home/tommy/MiniCppProjects/ShoppingCard/Product.cpp
+	"Product.h"
+	<cstring>
+
+1681324235 /home/tommy/MiniCppProjects/ShoppingCard/Product.h
+
+1681329773 source:/home/tommy/MiniCppProjects/ShoppingCard/main.cpp
+	<iomanip>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"Customer.h"
+	"test_lib.h"
+
+1681325202 /home/tommy/MiniCppProjects/ShoppingCard/Customer.h
+	"Product.h"
+	<iostream>
+
+1681324235 /home/tommy/MiniCppProjects/ShoppingCard/test_lib.h
+	<string.h>
+
+1681763002 source:/home/tommy/MiniCppProjects/ShoppingCard/Customer.cpp
+	"Customer.h"
+

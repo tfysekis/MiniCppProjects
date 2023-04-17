@@ -8,6 +8,7 @@ This repository contains a collection of small C++ projects that I've worked on.
 - `Vector`: A program that calculates the magnitude,angle,multiply,clone(..) of a vector.
 - `Scooter` : A program that demonstrates the inheritance in c++
 - `Bank Account` : Another one program with inheritance, bank account system with withdrawals,deposits and savings.
+- `Shopping Card` : A program that handles dynamically problems with lists.
 
 ## Getting Started
 
