@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1682521431 source:/home/tommy/MiniCppProjects/Products/Product.cpp
+	"Product.h"
+	<cstring>
+
+1682519676 /home/tommy/MiniCppProjects/Products/Product.h
+
+1682525010 source:/home/tommy/MiniCppProjects/Products/main.cpp
+	<iostream>
+	<stdlib.h>
+	"Product.h"
+	"overloads.h"
+	"Controller.h"
+	<iomanip>
+
+1682524280 /home/tommy/MiniCppProjects/Products/overloads.h
+	<iostream>
+	"Product.h"
+
+1682521166 /home/tommy/MiniCppProjects/Products/Controller.h
+	"Product.h"
+
+1682524211 source:/home/tommy/MiniCppProjects/Products/Controller.cpp
+	"Controller.h"
+	<fstream>
+	<iostream>
+

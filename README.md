@@ -9,6 +9,7 @@ This repository contains a collection of small C++ projects that I've worked on.
 - `Scooter` : A program that demonstrates the inheritance in c++
 - `Bank Account` : Another one program with inheritance, bank account system with withdrawals,deposits and savings.
 - `Shopping Card` : A program that handles dynamically problems with lists.
+- `Products` : Using C++ for file managment
 
 ## Getting Started
 
