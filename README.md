@@ -10,6 +10,7 @@ This repository contains a collection of small C++ projects that I've worked on.
 - `Bank Account` : Another one program with inheritance, bank account system with withdrawals,deposits and savings.
 - `Shopping Card` : A program that handles dynamically problems with lists.
 - `Products` : Using C++ for file managment
+- `Pair` : A small testing for templates
 
 ## Getting Started
 

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1683585486 source:/home/tommy/MiniCppProjects/Pair/main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Pair.h"
+
+1683824138 /home/tommy/MiniCppProjects/Pair/Pair.h
+	<iostream>
+
