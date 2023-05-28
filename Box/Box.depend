@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1684760931 source:/home/tommy/MiniCppProjects/Box/Box.cpp
+	"Box.h"
+	<iostream>
+
+1684760667 /home/tommy/MiniCppProjects/Box/Box.h
+	<iostream>
+
+1684760420 source:/home/tommy/MiniCppProjects/Box/main.cpp
+	<iostream>
+	"Box.h"
+

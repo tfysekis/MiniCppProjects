@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1685293089 source:/home/tommy/MiniCppProjects/Basketball/BasketballPlayer.cpp
+	"BasketballPlayer.h"
+
+1685294002 /home/tommy/MiniCppProjects/Basketball/BasketballPlayer.h
+	"Player.h"
+
+1685292664 /home/tommy/MiniCppProjects/Basketball/Player.h
+	<iostream>
+
+1685302580 source:/home/tommy/MiniCppProjects/Basketball/main.cpp
+	"BasketballPlayer.h"
+	"Comparator.h"
+	"overloads.h"
+	"string"
+	<iostream>
+
+1685292607 source:/home/tommy/MiniCppProjects/Basketball/Player.cpp
+	"Player.h"
+
+1685294477 /home/tommy/MiniCppProjects/Basketball/overloads.h
+	"BasketballPlayer.h"
+
+1685301471 /home/tommy/MiniCppProjects/Basketball/Comparator.h
+	<vector>
+
